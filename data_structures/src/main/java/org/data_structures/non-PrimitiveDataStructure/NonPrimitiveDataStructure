@@ -1,0 +1,19 @@
+Non Primitive Data Structure
+  Which are created by using primitive data structure
+  These data structures can't be manipulated or operated directly by machine-level instructions.
+  The focus of these data structures is on forming a set of data elements that is either homogeneous (same data type) or heterogeneous (different data types).
+  Based on the structure and arrangement of data, we can divide these data structures into two sub-categories
+  1.Linear Data Structures
+  2.Non-Linear Data Structures
+
+1. Linear Data Structures :-
+    If the elements of a data structure are stored in sequential or linear order then it is a linear data structure
+    Examples : arrays,linkedLists,stacks,queues
+This is represented by 2 ways
+1. One way is to have a linear relationship between elements by means of sequential memory locations
+2. The other way is to have a linear relationship between elements by means of links
+
+2. Non-Linear Data Structure :-
+   However, If the elements of a data structure not stored in a sequential order is known as non-linear data-structure
+   --> The relationship of adjacency is not maintained between elements of a non-linear data structure.
+      example: Trees, Graphs, heap, hash
